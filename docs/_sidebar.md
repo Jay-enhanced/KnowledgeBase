@@ -1,4 +1,5 @@
 * [🏡About Me](README)
+* [test](test)
 
 * 🔨常用工具
     * [GIT](/md/tools/git_learning)
