@@ -1,7 +1,7 @@
 * [🏡About Me](README)
 
 * 🔨常用工具
-    * [GIT](/md/tools/git_learning)
+    * [GIT](./md/tools/git_learning)
 * 📚编程语言
     * [C++](/)
     * [Python](/)
