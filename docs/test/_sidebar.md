@@ -1,4 +1,3 @@
-* [🏡About Me](README)
 * 🔨常用工具
     * [GIT](/md/tools/gitlearning)
 * 📚编程语言
@@ -8,5 +7,3 @@
     * [SPI](/)
     * [IIC](/)
     * [UART](/)
-* test
-    * [test](/test/)
