@@ -1,5 +1,11 @@
-# Personal Profile
+# 个人简介
 
-> Keep learning
+> 专业：计算机科学与技术
+>
+> 学校：GUET
+>
+> 行业：芯片
+>
+> 岗位：嵌入式软件工程师
 
-用文字记录学习！
+Keep learning ！
