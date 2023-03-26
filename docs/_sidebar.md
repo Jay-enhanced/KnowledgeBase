@@ -2,6 +2,7 @@
 * 🔨常用工具
     * [GIT](/md/tools/gitlearning)
     * [Markdown](/md/tools/markdown)
+    * [SSR](/md/tools/ShadowsockR)
     * [Win10启动盘制作](/md/tools/win10启动盘制作)
 * 📚编程语言
     * [C++](/)
