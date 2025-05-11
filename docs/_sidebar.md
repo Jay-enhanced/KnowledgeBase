@@ -11,5 +11,5 @@
     * [SPI](/)
     * [IIC](/)
     * [UART](/)
-* test
-    * [test](/test/)
+* 触控芯片
+    * [tpic](/tpic/)
